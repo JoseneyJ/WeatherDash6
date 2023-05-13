@@ -1,4 +1,4 @@
-# WeatherDash6
+# Bootcamp Challenge 6
 # 06 Server-Side APIs: Weather Dashboard
 
 ## Your Task
@@ -32,3 +32,6 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
+## Screenshot: 
+
+<img width="1440" alt="Screenshot 2023-05-13 at 10 38 50 AM" src="https://github.com/JoseneyJ/WeatherDash6/assets/119374215/d5587754-ff98-4e81-9f1f-0e0ee508fb7f">
